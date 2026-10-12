@@ -1,0 +1,6 @@
+vulkan_sdk/
+*.obj
+*.exe
+*.pdb
+*.ilk
+report*.txt
